@@ -17,7 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    NSLog(@"123456");
+    [self developMethod];
+}
+
+- (void)developMethod {
+    NSLog(@"123");
 }
 
 @end
