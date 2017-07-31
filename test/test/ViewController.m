@@ -21,7 +21,7 @@
 }
 
 - (void)developMethod {
-    NSLog(@"123");
+    NSLog(@"abcd");
 }
 
 @end
